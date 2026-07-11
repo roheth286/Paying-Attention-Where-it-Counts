@@ -1,5 +1,12 @@
 # Paying Attention Where it Counts
 
+## Getting Started & Execution
+> [!IMPORTANT]
+> - **Accelerator Required**: A hardware accelerator (GPU/CUDA-enabled device) is required to train the U-Net and Attention U-Net models.
+> - **Modular Pipeline**: To build and execute the pipeline step-by-step, run the modular notebook [notebooks/pipeline.ipynb](file:///c:/Users/rohet/OneDrive/Documents/CS_WORK/Machine_Learning/Attention_Vs,_U-NET/notebooks/pipeline.ipynb).
+> - **Original Reference Notebook**: To see the original Google Colab notebook, check [Main_Notebook.ipynb](file:///c:/Users/rohet/OneDrive/Documents/CS_WORK/Machine_Learning/Attention_Vs,_U-NET/Main_Notebook.ipynb). **Please DO NOT run this notebook locally**, as it is for reference only and contains Colab-specific paths and commands that will not execute in local environments.
+
+
 ## 2. Goal
 This project implements, evaluates, and compares an **Attention U-Net** architecture against a standard **baseline U-Net** on the Oxford-IIIT Pet dataset. The target task is binary image segmentation, separating the pet body (foreground) from the surrounding background.
 
