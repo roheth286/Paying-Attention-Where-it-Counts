@@ -1,4 +1,3 @@
-Upcoming: A detailed, step‑by‑step report will be published soon, walking through the entire workflow—from data preparation to model training and evaluation—for this project.
 # Paying Attention Where it Counts
 
 ## Getting Started & Execution
