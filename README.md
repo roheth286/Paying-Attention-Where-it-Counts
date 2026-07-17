@@ -1,3 +1,4 @@
+Upcoming: A detailed, step‑by‑step report will be published soon, walking through the entire workflow—from data preparation to model training and evaluation—for this project.
 # Paying Attention Where it Counts
 
 ## Getting Started & Execution
@@ -130,3 +131,6 @@ All measurements were computed on a CUDA-enabled GPU device.
 - **Interpretation**: The attention mechanism *did* show a slight positive improvement in segmentation accuracy on the Oxford-IIIT Pet dataset. This gain is achieved with minimal computational overhead: parameter count increased by only **1.13%** and inference latency rose by only **1.41 ms** (+6.99%). Therefore, even when target objects are large and visually prominent, attention gates provide a small, cost-effective benefit in boundary delineation without substantially compromising inference speed.
 
 Upcoming: A detailed, step‑by‑step report will be published soon, walking through the entire workflow—from data preparation to model training and evaluation—for this project.
+
+> [!NOTE]
+> Upcoming: A detailed, step‑by‑step report will be published soon, walking through the entire workflow—from data preparation to model training and evaluation for this project.
